@@ -16,13 +16,13 @@ const inter = Inter({
 
 export const metadata: Metadata = {
 	publisher: 'Ahmed Ibraheem Ahmed',
-	title: 'Ahmed Ibraheem Ahmed | Fullstack Developer',
+	title: 'Ahmed Ibraheem Ahmed | Entry-Level Fullstack Developer',
 	description:
-		'Fullstack Developer specializing in MERN stack, Django, React, and modern web technologies. Explore my projects and experience.',
+		'Entry-Level Fullstack Developer specializing in MERN stack, Django, React, and modern web technologies. Explore my projects and training experience.',
 	keywords: [
 		'Ahmed Ibraheem Ahmed',
 		'Ahmed Ibraheem',
-		'Fullstack Developer',
+		'Entry-Level Fullstack Developer',
 		'MERN Stack',
 		'Django',
 		'React',
@@ -42,9 +42,9 @@ export const metadata: Metadata = {
 	],
 	authors: [{ name: 'Ahmed Ibraheem Ahmed' }],
 	openGraph: {
-		title: 'Ahmed Ibraheem Ahmed | Fullstack Developer',
+		title: 'Ahmed Ibraheem Ahmed | Entry-Level Fullstack Developer',
 		description:
-			'Explore my work in MERN stack, Django, and modern web development.',
+			'Explore my work in MERN stack, Django, and modern web development as an entry-level developer.',
 		url: 'https://ahmed-ibraheem-portfolio.vercel.app/',
 		siteName: 'Ahmed Ibraheem Ahmed Portfolio',
 		locale: 'en_US',

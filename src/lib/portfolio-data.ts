@@ -8,7 +8,7 @@ import {
 
 export const portfolioData = {
 	name: 'Ahmed Ibraheem Ahmed',
-	role: 'Fullstack Developer',
+	role: 'Entry-Level Fullstack Developer',
 	experience: 'Junior',
 	phone: '01006505569',
 	email: 'ahmedibraheem9213289@gmail.com',

@@ -4,8 +4,8 @@ interface CounterStat {
 }
 
 export const CounterStats: CounterStat[] = [
-	{ label: 'Projects completed', value: 35 },
-	{ label: 'Active projects', value: 2 },
-	{ label: 'Happy clients', value: 25 },
-	{ label: 'Years of experience', value: 3 },
+	{ label: 'Projects completed', value: 5 },
+	{ label: 'Active projects', value: 0 },
+	{ label: 'Happy clients', value: 0 },
+	{ label: 'Years of experience', value: 0 },
 ];

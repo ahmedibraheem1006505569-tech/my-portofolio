@@ -32,7 +32,7 @@ export const AboutMeSectionData: AboutMeCard[] = [
 				text: 'Available to work',
 				translateZ: '40',
 			},
-			{ icon: Briefcase, text: 'Fullstack Developer', translateZ: '50' },
+			{ icon: Briefcase, text: 'Entry-Level Fullstack Developer', translateZ: '50' },
 			{ icon: null, translateZ: '60', isButton: true },
 		],
 	},
