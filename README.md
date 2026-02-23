@@ -1,4 +1,4 @@
-# Kerolos Magdy | Frontend Developer Portfolio
+# Ahmed Ibraheem | Fullstack Developer Portfolio
 
 A high-performance, personal portfolio website built with **Next.js 16** and **Tailwind CSS v4**.
 
