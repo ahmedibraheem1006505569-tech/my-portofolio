@@ -5,7 +5,7 @@ import { TimelineEntry } from 'src/components';
 
 export const ExperienceItems: TimelineEntry[] = [
 	{
-		title: 'FullStack MEARN Training at INFORMATION TECHNOLOGY INSTITUTE ( ITI )',
+		title: 'FullStack MEARN Development Training at INFORMATION TECHNOLOGY INSTITUTE ( ITI )',
 		content: (
 			<div className='space-y-3'>
 				<div className='flex items-center gap-2 text-sm text-neutral-700 dark:text-neutral-300'>
@@ -13,11 +13,10 @@ export const ExperienceItems: TimelineEntry[] = [
 					<span>QENA • 07/2025 – Present</span>
 				</div>
 				<p className='text-sm text-neutral-800 dark:text-neutral-200'>
-					Currently developing foundational full-stack capabilities through hands-on training, building functional
-					web applications using the <strong>MERN/MEAN stack</strong> (Node.js,
+					Intensive full-stack development training focused on building production-ready web applications using the <strong>MERN/MEAN stack</strong> (Node.js,
 					Express, React/ Angular, MongoDB), and creating responsive user
 					interfaces with <strong>HTML5</strong>, <strong>CSS3</strong>, and{' '}
-					<strong>Bootstrap</strong>. Actively learning and implementing modern web development practices.
+					<strong>Bootstrap</strong>. Successfully delivered multiple projects demonstrating strong technical capabilities and rapid learning ability.
 				</p>
 				<div className='flex flex-wrap items-center gap-3 text-xs text-neutral-600 dark:text-neutral-400'>
 					<IconTool className='h-3 w-3' />
